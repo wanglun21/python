@@ -1,0 +1,12 @@
+shan = ["taishan","huashan","hengshan","huangshang"]
+print (shan)
+print (sorted(shan))
+print (shan)
+print (sorted (shan,reverse = True))
+print (shan)
+shan.sort ()
+print (shan)
+shan.sort (reverse = True)
+print (shan)
+shan.reverse()
+print (shan)
